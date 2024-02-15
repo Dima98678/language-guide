@@ -1,2 +1,2 @@
-const 1 = '123';
+const 1 = '1234';
 export default 1;
